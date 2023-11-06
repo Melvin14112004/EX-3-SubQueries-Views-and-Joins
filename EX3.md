@@ -198,3 +198,7 @@ SELECT * FROM salesman1 RIGHT JOIN customer1 ON salesman1.salesman_id = customer
 ```
 ### OUTPUT:
 ![image](https://github.com/BharathCSEIOT/EX-3-SubQueries-Views-and-Joins/assets/122793480/d41b4e6c-9d8f-4ed2-b8d3-8c0554cb72ae)
+
+## RESULT:
+
+Queries Executed Successfully.
